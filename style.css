@@ -20,7 +20,7 @@ body{
     width: 400px;
     margin:0 auto;
     position: relative;
-    top:40%;
+    top:50%;
     transform : translateY(-50%);
     padding: 20px 40px;
     background-color: #cb787899;
